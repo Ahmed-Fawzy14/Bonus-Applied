@@ -18,7 +18,7 @@ using namespace std;
 class Graph {
 
 private:
-    string filename = "C:/Users/Fawzy/OneDrive - YAT learning Solutions/Desktop/assign 6 applied.txt";
+    string filename = "assign 6 applied";
 public:
 
     vector<vector<int>> graph;
